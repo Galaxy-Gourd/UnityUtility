@@ -1,0 +1,18 @@
+{
+    "name": "GG.UnityUtility.Editor",
+    "rootNamespace": "GGUnityUtilityEditor",
+    "references": [
+        "GUID:73d3319e80ff4486db520155ff10d390"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
